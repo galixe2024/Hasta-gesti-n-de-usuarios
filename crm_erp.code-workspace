@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "crm_erp"
+		},
+		{
+			"name": "crm_erp-1",
+			"path": "crm_erp-1"
+		},
+		{
+			"path": "admin_metronic_v8.2.1"
+		},
+		{
+			"path": "api-crm-erp"
+		}
+	],
+	"settings": {}
+}
